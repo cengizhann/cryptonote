@@ -9,7 +9,7 @@
 #include "CryptoTypes.h"
 
 namespace CryptoNote {
-
+const char CRYPTONOTE_NAME[] = "talhayasar";
 struct BaseInput {
   uint32_t blockIndex;
 };
